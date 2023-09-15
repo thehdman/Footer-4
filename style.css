@@ -27,6 +27,11 @@ footer {
 
 .footer-top-info-heading {
     text-transform: uppercase;
+    color: #fff;
+}
+
+.footer-top-info-heading-2{
+    color: #fff;
 }
 
 .footer-top-contact-phone {
