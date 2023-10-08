@@ -1,0 +1,30 @@
+@media (max-width: 768px) { 
+    .footer-bottom-item{
+        display: block;
+    }
+    .footer-bottom-list{
+        justify-content: center;
+    }
+    .footer-copyright{
+        display: flex;
+        justify-content: center;
+        padding-top: 10px;
+    }
+ }
+@media (max-width: 576px) {
+    .footer-top{
+        padding: 15px 0;
+    }
+    p{
+        font-size: 14px;
+    }
+    .footer-about p{
+        margin: 7px;
+    }
+    .footer-contact{
+        line-height: 5px;
+    }
+    .footer-bottom-list li{
+        font-size: 14px;
+    }
+ }

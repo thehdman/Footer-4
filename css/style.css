@@ -1,0 +1,31 @@
+.footer-box{
+    position: relative;
+    top: 100px;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+}
+.footer-top{
+    background: #5b7c99;
+}
+.footer-bottom{
+    background: #ff8c42;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+p{
+    font-size: 16px;
+}
+.footer-contact{
+    line-height: 15px;
+}
+.footer-bottom-item{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-bottom-list li :hover{
+    color: #5b7c99;
+}
+
